@@ -1,5 +1,4 @@
 def fibonacci(n):
-  series=[]
   if n<0:
     print('Incorrect input')
   elif n==0:
